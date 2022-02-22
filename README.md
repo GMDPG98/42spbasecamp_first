@@ -20,3 +20,11 @@ The Shell scripts are presented at Shell directories.
 And for the last but not less important we have the Rush files, presented at Rush00 directory.
 The Rush project was made in a weekend by groups of three campers sorted in each group, the objective was
 to develop a prototype of a function to print some characters in diferent orders on the screen.
+
+## Improvements to come
+
+I will finish the other exercises of 42sp lists and add them here, actually i'm still configuring my setup to code in C, because by now i'm a Windows boy, but i'll change that ("I promise"), and i'll try to improve my actual code, cause in the C03 list exists some errors and bugs that i'll fix. And made the code better looking and in shape for a better performance.
+
+## Bugs
+
+In C03 exercise, it presents some bugs that would be fixed soon.
