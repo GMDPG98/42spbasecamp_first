@@ -1,8 +1,8 @@
 # 42sp Basecamp files and list of exercises.
 
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
-In this basecamp we were challenged to recrate functions of C programing language, and scripts of Shell.
+In this basecamp we were challenged to recreate functions of C programing language, and scripts of Shell.
 The experience at 42 was really amazing and i was grateful by being part of it, here you would find
 exercises of C and Shell lists.
 
