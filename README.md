@@ -12,7 +12,7 @@ points of view to develop the exercises.
 The C lists are not complete, here we just have some of the exercises that i made (it will be updated by the time).
 Is free and under no license for a while.
 
-## Improvements to come
+## How it works / where to find?
 
 The functions are presented in the C directories, the main are presented on the directory called testesC.
 The Shell scripts are presented at Shell directories.
