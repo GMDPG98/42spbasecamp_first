@@ -14,7 +14,7 @@ Is free and under no license for a while.
 
 ## How it works / where to find?
 
-The functions are presented in the C directories, the main are presented on the directory called testesC.
+The functions are presented in the C directories, the main of each C functions/exercises are presented on the directory called testesC.
 The Shell scripts are presented at Shell directories.
 
 And for the last but not less important we have the Rush files, presented at Rush00 directory.
