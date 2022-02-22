@@ -1,7 +1,9 @@
 # 42sp Basecamp files and list of exercises.
 
-In this basecamp we were challenged to recriate functions of C programing language, and scripts of Shell.
-The experience at 42 was really amazing and i was really grateful by being part of it, here you would find
+<img height="20px" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+
+In this basecamp we were challenged to recrate functions of C programing language, and scripts of Shell.
+The experience at 42 was really amazing and i was grateful by being part of it, here you would find
 exercises of C and Shell lists.
 
 This repository is free for everyone to see and contribute, for new campers seeking for help and different
@@ -10,7 +12,8 @@ points of view to develop the exercises.
 The C lists are not complete, here we just have some of the exercises that i made (it will be updated by the time).
 Is free and under no license for a while.
 
-Improvements to come in the future, and open for contributions now and on the future.
+## Improvements to come
+
 The functions are presented in the C directories, the main are presented on the directory called testesC.
 The Shell scripts are presented at Shell directories.
 
