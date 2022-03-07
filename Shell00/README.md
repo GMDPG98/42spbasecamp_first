@@ -20,7 +20,7 @@ With this command you will compress the file with .tar extension.
 
 #### Important
 
-You should just execute this command after finish the exercise, because if you don't your work will be bigger, and your time probably will be lost.
+You should just execute this command after finish the exercise, because if you don't, your work will be bigger, and your time probably will be lost.
 
 ### Shell00 / ex02
 
@@ -30,7 +30,7 @@ After that we will use the command:
 
 #### tar -cf exo2.tar *
 
-This command as the other will compress the files.
+This command, as the other, will compress the files.
 
 ### Shell00 / ex03
 
