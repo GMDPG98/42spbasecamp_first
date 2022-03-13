@@ -26,7 +26,7 @@ On the other Rush, i didn't made part of it, but i saw it was even harder than t
 
 ## Improvements to come
 
-I will finish the other exercises of 42sp lists and add them here, and i will improve my actual code, cause in the C03 list exists some errors and bugs that i'll fix. And made the code better looking and in shape for a better performance on the others exercises.
+I will finish the other exercises of 42sp lists and add them here, and i will improve my actual code, cause in the C03 list exists some errors and bugs that i'll fix. And made the code better looking and in shape for a better performance on the other exercises.
 
 ## Bugs
 
