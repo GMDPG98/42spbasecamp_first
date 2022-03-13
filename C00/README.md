@@ -64,3 +64,5 @@ This version have some improvements such as:
 - Removed the while inside while structure, and made the whole logical tests in just one while structure;
 
 - Is showing the same result as the ex05 first resolution.
+
+You can test it with the same 'main' listed in testesC, used for ex05.
