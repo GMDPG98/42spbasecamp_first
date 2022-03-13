@@ -52,3 +52,15 @@ Here things might start to be interesting, in this exercise we were challenged t
 - 987 is out because 789 is present.
 
 - 999 is out because this number doesn't have different numbers between them.
+
+### C00 / ex05_alternative_version
+
+This version is an alternative resolution of the ex05 of this list. What is different between them?
+
+This version have some improvements such as:
+
+- Less lines of code (still in development);
+
+- Removed the while inside while structure, and made the whole logical tests in just one while structure;
+
+- Is showing the same result as the ex05 first resolution.
